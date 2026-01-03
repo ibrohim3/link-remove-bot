@@ -1,0 +1,16 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ibrohim Qosimov",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "grammy": "^1.39.2",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
